@@ -5,7 +5,6 @@ import java.util.Map;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-/** @author Darren.Forsythe@Liberty-IT.co.uk */
 @ConfigurationProperties(prefix = "properties")
 public class MyProperties {
 
